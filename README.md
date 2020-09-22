@@ -68,7 +68,7 @@ University project. Simulator of the world (animals and plants)
 | fox         | 3        | 7           | won't move to the field with an animal with higher strength                                                                            | none                                                                                      |
 | turtle      | 2        | 1           | 75% chance of not moving                                                                                                               | Resists attacks of attack with strength < 5. Attacker must come back to its initial field |
 | antelope    | 4        | 4           | move range is 2                                                                                                                        | 50% chance of fleeing before fight - then move to the nearby empty field                  |
-| cyber-sheep | 11       | 4           | If there is a hogweed on the map then cyber-sheep always moves to the nearest one. If there is no hogweed it behaves like normal sheep | eats hogweed                                                                              |
+| cyber-sheep | 11       | 4           | If there is a hogweed on the map then cyber-sheep always moves to the nearest one. If there is no hogweed it behaves like a normal sheep | eats hogweed                                                                              |
 
  ### Plants
 
